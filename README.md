@@ -25,3 +25,4 @@ Se implementan las siguientes etapas en la actualización del código
 
 •	Etapa 5. Desarrollo de Pruebas Unitarias
   Se desarrollan mediante JUnit 5 pruebas unitarias para todas las clases principales en la carpeta `test/`.
+  Para las correcta compilación y desarro de las pruebas Unitarias se debe Añadir JUnit 5: "Add Junit 5 library to the build path"
